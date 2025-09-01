@@ -17,4 +17,4 @@ MVVM, uygulamanın görünümü ve mantığı arasındaki bağlantıyı net bir 
 
 
 Model: Verileri ve iş mantığını tutar.
-View: UI'ı ve verilerin görüntülen
+View: UI'ı ve verilerin görüntülenmesini sağlar.
