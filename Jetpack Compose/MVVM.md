@@ -8,4 +8,4 @@ MVVM, uygulamanın görünümü ve mantığı arasındaki bağlantıyı net bir 
 
 https://www.linkedin.com/
 
-LINKEDIN L
+[[LINKEDIN LINKIhttps://www.linkedin.com/]]
