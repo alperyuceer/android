@@ -10,4 +10,4 @@ https://www.linkedin.com/
 
 [LINKEDIN LINKI](https://www.linkedin.com/)
 
-![](../../resimlink-logo.png)
+![IMAGE](../../resimlink-logo.png)
