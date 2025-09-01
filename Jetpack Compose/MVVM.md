@@ -10,4 +10,4 @@ https://www.linkedin.com/
 
 [LINKEDIN LINKI](https://www.linkedin.com/)
 
-![IMAGE](../../resimlink-logo.png)
+![resim baglantisi](https://resimlink.com/asset/uploads/files/resimlink-logo.png)
