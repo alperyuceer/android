@@ -5,3 +5,11 @@ MVVM, uygulamanın görünümü ve mantığı arasındaki bağlantıyı net bir 
 **•Model:** Verileri ve iş mantığını tutar.
 **•View:** UI’ı ve verilerin görüntülenmesini sağlar.
 **•ViewModel:** Ara eleman rolü oynar. Uygulamanın UI’ı ile iş mantığını yönetmek ve bu verileri **View**’e göndermekle sorumludur.
+
+
+
+
+
+**•Model:** Verileri ve iş mantığını tutar.
+**•View:** UI’ı ve verilerin görüntülenmesini sağlar.
+**•ViewModel:** Ara eleman rolü oynar. Uygulamanın UI’ı ile iş mantığını yönetmek ve bu verileri **View**’e göndermekle sorumludur.
