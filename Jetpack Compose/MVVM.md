@@ -7,3 +7,5 @@ MVVM, uygulamanın görünümü ve mantığı arasındaki bağlantıyı net bir 
 **•ViewModel:** Ara eleman rolü oynar. Uygulamanın UI’ı ile iş mantığını yönetmek ve bu verileri **View**’e göndermekle sorumludur.
 
 https://www.linkedin.com/
+
+LINKEDIN L
